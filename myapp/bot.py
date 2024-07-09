@@ -53,7 +53,7 @@ logger = logging.getLogger(__name__)
 logger.info("Logger initialized successfully.")
 
 # Инициализация бота
-TOKEN = '6797762359:AAG27mStq9FE0RRKnJePZKcaTNNsvdROH3I'
+TOKEN = 'YOURE TOKEN HERE'
 bot = telebot.TeleBot(TOKEN)
 
 # Загрузка модели YOLOv8
